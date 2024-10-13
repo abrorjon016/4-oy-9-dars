@@ -111,4 +111,32 @@
 //   }
 // }
 
-// qolganlari qiyin ekan 
+// qolganlari qiyin ekan
+
+// 12-masala
+// let arr = [-2, -1, 0, 1, 2];
+// let sum = 0;
+// for (let num of arr) {
+//   if (son > 0) {
+//     sum += num;
+//   }
+// }
+// console.log(sum);
+
+// 13-masala
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 8, 9];
+// for (let i = 0; i < arr.length; i++) {
+//   console.log(i, arr[i]);
+// }
+
+// 14-masala
+// let arr = [1, 2, 3, 4, 5, 6, 7];
+// for (let i = arr.length - 1; i >= 0; i--) {
+//   console.log(i, arr[i]);
+// }
+
+// 15-masala
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 8, 9];
+// for (let i =1; i < arr.length; i++) {
+//   console.log(i, arr[i]);
+// }
